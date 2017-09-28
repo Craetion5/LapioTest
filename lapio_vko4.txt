@@ -2,7 +2,8 @@ I add text to this file
 because it's required
 for next exercises.
 
-              (>_<)
+        ('_')      (>_<)
 
 Now the file is modified!
 The file was modified again!
+EDITED!
