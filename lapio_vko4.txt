@@ -1,6 +1,6 @@
 I add text to this file
 because it's required
-for next exercises.
+for next exercises. Greetings from GitHub!
 
         ('_')      (>_<)
 
